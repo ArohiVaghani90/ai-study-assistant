@@ -22,8 +22,16 @@ A simple AI-powered study assistant web app that helps students with explanation
 
 ---
 
+## Project Status
+- Prototype / MVP
+
+---
+
 ## Running Locally
 
+An OpenAI API key is required to enable AI responses.
+
+### Install Dependencies & Run
 ```bash
 npm install
 npm run dev
